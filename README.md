@@ -5,7 +5,7 @@ This quiz is used to show the usage ot timers and localstorage.
 [Portfolio](https://acaseyl.github.io/Quiz/)
 
 ## Screenshot
-
+![Screenshot.jpg] (https://github.com/Acaseyl/Quiz/blob/main/Assets/Quiz_Screenshot.JPG)
 ## Credits
 [Andrew Lawrence](https://www.github.com/acaseyl)
 
